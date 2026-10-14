@@ -1,0 +1,4 @@
+pandas>=1.5
+networkx>=3.0
+mlxtend>=0.22
+streamlit>=1.35
